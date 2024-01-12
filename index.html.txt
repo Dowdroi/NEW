@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML flex gura</title>
+</head>
+
+<body>
+    <main>
+        <h1>A</h1>
+
+        <img src="https://vtubernewsdrop.com/content/images/size/w1000/2022/09/Gawr_Gura.png" alt="Description of your image">
+
+        <p>Flex gura</p>
+
+        <h2>Subheading</h2>
+        <p>How to say sharks</p>
+
+        <ul>
+            <li>Same</li>
+            <li>Cá Mập</li>
+            <li>Shark</li>
+        </ul>
+    </main>
+</body>
+
+</html>
